@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/nazarhussain/capistrano_mixin.git
-  revision: 9bd7c7d560446542c6bef0f3ef1c3f2ec9a1246c
+  revision: 2cc9284a8c33b08380951b11414e8ea66a88131f
   specs:
     capistrano_mixin (0.0.1)
       capistrano (~> 2.15.4)
