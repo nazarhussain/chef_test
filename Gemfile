@@ -33,7 +33,7 @@ gem 'puma'
 
 # Deploy with Capistrano
 gem 'capistrano'
-gem 'capistrano_mixin', path: '/home/nazar2/Hub/personal/gems/capistrano_mixin'
+gem 'capistrano_mixin', github: 'nazarhussain/capistrano_mixin'
 
 # To use debugger
 # gem 'debugger'
